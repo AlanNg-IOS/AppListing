@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cosmos (23.0.0)
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+  - KRActivityIndicatorView (3.0.5)
+  - KRProgressHUD (3.4.5):
+    - KRActivityIndicatorView (= 3.0.5)
+  - RxAlamofire (4.4.1):
+    - RxAlamofire/Core (= 4.4.1)
+  - RxAlamofire/Core (4.4.1):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 4.5)
+  - RxSwift (4.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Cosmos
+  - Kingfisher
+  - KRProgressHUD
+  - RxAlamofire (~> 4.2)
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - Kingfisher
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - RxAlamofire
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+  KRActivityIndicatorView: 912bc0413d98340f384b12a4e1e6aa8f42fb377d
+  KRProgressHUD: df4cdc3a1baf708d4276a089ee34d133fa9a6f3e
+  RxAlamofire: ed65f451f5a9a59419b0b9e705043dc01410edd9
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+
+PODFILE CHECKSUM: 2d8a23cf9a57079542c17d0b7a02134a330b1031
+
+COCOAPODS: 1.9.1
